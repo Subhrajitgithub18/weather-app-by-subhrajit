@@ -35,7 +35,7 @@ A responsive weather application built using **HTML, CSS, and JavaScript**, powe
 
 | Interface | Forecast View | Highlights |
 |----------|---------------|------------|
-| ![Screenshot 1](link-to-img1) | ![Screenshot 2](link-to-img2) | ![Screenshot 3](link-to-img3) |
+| ![Screenshot 1](https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20app%20over%20all%20apps.jpeg) | ![Wether Interface 1](https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface.jpeg) | ![Wether Interface 2](https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface%202.jpeg) |
 
 > _(Upload your images in the repo or use external links, e.g., Imgur or GitHub’s “Issues” upload method)_
 
