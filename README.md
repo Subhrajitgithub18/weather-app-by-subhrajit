@@ -33,9 +33,12 @@ A responsive weather application built using **HTML, CSS, and JavaScript**, powe
 
 ## 🖼️ Screenshots
 
-| Interface | Forecast View | Highlights |
+| Icon | Interface 1 | Interface 2 |
 |----------|---------------|------------|
-| ![Screenshot 1](https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20app%20over%20all%20apps.jpeg) | ![Wether Interface 1](https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface.jpeg) | ![Wether Interface 2](https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface%202.jpeg) |
+- <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/meteorology.png">App icon</a>
+- <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20app%20over%20all%20apps.jpeg">App icon over all apps</a>
+- <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface.jpeg">Weather-app-interface 1</a>
+- <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface%202.jpeg">Weather-app-interface 2</a>
 
 > _(Upload your images in the repo or use external links, e.g., Imgur or GitHub’s “Issues” upload method)_
 
@@ -44,8 +47,8 @@ A responsive weather application built using **HTML, CSS, and JavaScript**, powe
 ## 👨‍💻 Developer Info
 
 **Subhrajit Swain**  
-🎓 B.Tech CSE, Bhubaneswar  
-📬 subhrajit.swain@example.com  
+🎓 B.Tech CSE, Siksha 'O' Anusandhan Bhubaneswar  
+📬 subhrajit.swain152@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/subhrajit-swain)
 
 ---
