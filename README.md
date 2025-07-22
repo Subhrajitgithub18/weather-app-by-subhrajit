@@ -25,22 +25,16 @@ A responsive weather application built using **HTML, CSS, and JavaScript**, powe
 
 ## 📲 Download Android APK
 
-👉 📲 **Download Android APK**
-
 [Click here to download the APK](https://drive.google.com/file/d/1aDYOFE65t6L4xUJldwGVzx_nV6fjDw8h/view?usp=drive_link)
 
 ---
 
 ## 🖼️ Screenshots
 
-| Icon | Interface 1 | Interface 2 |
-|----------|---------------|------------|
 - <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/meteorology.png">App icon</a>
 - <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20app%20over%20all%20apps.jpeg">App icon over all apps</a>
 - <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface.jpeg">Weather-app-interface 1</a>
 - <a href = "https://github.com/Subhrajitgithub18/weather-app-by-subhrajit/blob/main/weather%20interface%202.jpeg">Weather-app-interface 2</a>
-
-> _(Upload your images in the repo or use external links, e.g., Imgur or GitHub’s “Issues” upload method)_
 
 ---
 
